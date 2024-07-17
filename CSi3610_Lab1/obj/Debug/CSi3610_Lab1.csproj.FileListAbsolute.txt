@@ -1,0 +1,10 @@
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\bin\Debug\CSi3610_Lab1.exe.config
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\bin\Debug\CSi3610_Lab1.exe
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\bin\Debug\CSi3610_Lab1.pdb
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.csproj.AssemblyReference.cache
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.Form1.resources
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.Properties.Resources.resources
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.csproj.GenerateResource.cache
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.exe
+C:\Users\siadat\source\repos\CSi3610_Lab1\CSi3610_Lab1\obj\Debug\CSi3610_Lab1.pdb
